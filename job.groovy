@@ -8,7 +8,7 @@ definition {
               remote {
                 url("${githubUrl}")
               }
-              branch("*/main")
+              branch("*/master")
             }
         }
     }
