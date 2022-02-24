@@ -1,4 +1,4 @@
-def githubUrl = "https://github.com/linuxjefeprive/devops2.git"
+def githubUrl = "https://github.com/linuxjefeprive/Hello-World-Code.git"
 
 pipelineJob("DevOps WAR File Project") {
 definition {
